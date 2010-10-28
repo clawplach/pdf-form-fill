@@ -1,0 +1,107 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-10-28 15:34-0400\n"
+"PO-Revision-Date: 2010-02-01 22:22\n"
+"Last-Translator: Administrator Local <admin@admin.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Translated-Using: django-rosetta 0.4.9\n"
+
+#: models.py:10
+msgid "name"
+msgstr "nombre"
+
+#: models.py:11
+msgid "title"
+msgstr "título"
+
+#: models.py:13
+msgid "description"
+msgstr "descripción"
+
+#: models.py:15
+msgid "source filename"
+msgstr "nombre del archivo fuente"
+
+#: models.py:41 models.py:50 models.py:63
+msgid "form"
+msgstr "forma"
+
+#: models.py:42
+msgid "forms"
+msgstr "formas"
+
+#: models.py:51
+msgid "field name"
+msgstr "nombre del campo"
+
+#: models.py:58 models.py:86
+msgid "form field"
+msgstr "campo de formulario"
+
+#: models.py:59
+msgid "form fields"
+msgstr "campos de formulario"
+
+#: models.py:64
+msgid "mappings"
+msgstr "asignaciones"
+
+#: models.py:70
+msgid "form field mappings"
+msgstr "asignaciones de campo de formulario"
+
+#: models.py:71
+msgid "forms field mappings"
+msgstr "asignaciones de campos de formularios"
+
+#: models.py:82
+msgid "Split"
+msgstr "Partir"
+
+#: models.py:83
+msgid "Concatenate"
+msgstr "Concatenar"
+
+#: models.py:84
+msgid "Fixed"
+msgstr "Fijo"
+
+#: models.py:87
+msgid "form field mapping"
+msgstr "asignación de campo de formulario"
+
+#: models.py:88
+msgid "source field"
+msgstr "campo fuente"
+
+#: models.py:90
+msgid "operand"
+msgstr "operando"
+
+#: models.py:91
+msgid "argument"
+msgstr "argumento"
+
+#: models.py:97
+msgid "mapping property"
+msgstr "propiedades de asignación"
+
+#: models.py:98
+msgid "mapping properties"
+msgstr "propiedades de la asignaciones"
+
+#: utils.py:24
+#, python-format
+msgid "Field error: %s"
+msgstr ""
